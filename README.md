@@ -1,4 +1,5 @@
 # Super Store Analysis
+  (Using SQL)
 
 Super store dataset which is very commonly used I know but Retail Analysis has been one of my favorites. So I thought of using this dataset and working on improving my Analytical thinking to get as many insights with the existing data.
 
